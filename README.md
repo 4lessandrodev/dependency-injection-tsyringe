@@ -1,4 +1,4 @@
-# tsrynge
+# tsyringe
 
 ## dependency injection
 
